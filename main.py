@@ -1,8 +1,8 @@
 import requests
 import smtplib
 
-STOCK = "TSLA"
-COMPANY_NAME = "Tesla Inc"
+STOCK = "TSLA"  # type the name of the company in the stock market
+COMPANY_NAME = "Tesla Inc" # type the company name
 STOCK_PERCENT_CHANGE = 5
 
 API_Endpoint = "https://www.alphavantage.co/query"

@@ -4,7 +4,9 @@ this script track the stock of any company tha you choose and send you a message
 
 ## How To Use It:
 You need to have tokens and acounts from these to API:
+
 1  https://www.alphavantage.co/
+
 2  https://newsapi.org/
 
 - You should first give the script the ``STOCK`` name of that company and the ``COMPANY_NAME``, and ``STOCK_PERCENT_CHANGE``.
